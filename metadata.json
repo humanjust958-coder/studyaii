@@ -1,0 +1,5 @@
+{
+  "name": "StudyGenie AI",
+  "description": "Your AI-Powered Study Universe featuring a 12-module learning system, games, flashcards, and a real-time study companion.",
+  "requestFramePermissions": ["microphone"]
+}
